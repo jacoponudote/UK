@@ -1,0 +1,8 @@
+(THIS IS AN EXAMPLE)
+Python code git repository: G:\My Drive\git_repo\VCC_SEA_models.git
+git log:
+commit 433737686419eea56862679ba4fd60e0e4fa0a1e (HEAD -> master, origin/master)
+Author: TE-ValentinSimon <valentin.simon@transportenvironment.org>
+Date:   Fri Jan 8 11:08:37 2021 +0100
+
+    Adding all necessary geographic files for SVA
